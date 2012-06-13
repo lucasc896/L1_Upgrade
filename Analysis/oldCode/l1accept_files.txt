@@ -1,0 +1,7 @@
+/storage/phjjb/upgrade/L1Accept-Fill2252/L1TreeL1Accept_1_1_8eI.root
+/storage/phjjb/upgrade/L1Accept-Fill2252/L1TreeL1Accept_2_1_VGJ.root
+/storage/phjjb/upgrade/L1Accept-Fill2252/L1TreeL1Accept_3_1_CrU.root
+/storage/phjjb/upgrade/L1Accept-Fill2252/L1TreeL1Accept_4_1_4oQ.root
+/storage/phjjb/upgrade/L1Accept-Fill2252/L1TreeL1Accept_5_1_bcP.root
+/storage/phjjb/upgrade/L1Accept-Fill2252/L1TreeL1Accept_6_1_z6g.root
+/storage/phjjb/upgrade/L1Accept-Fill2252/L1TreeL1Accept_7_1_FoM.root

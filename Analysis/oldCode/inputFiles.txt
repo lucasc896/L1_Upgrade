@@ -1,0 +1,7 @@
+/storage/cl7359/trigger_studies/nTuples/ZeroBias/RECO/L1Tree_1_merged_179827_001.root
+/storage/cl7359/trigger_studies/nTuples/ZeroBias/RECO/L1Tree_10_merged_179823_001.root
+/storage/cl7359/trigger_studies/nTuples/ZeroBias/RECO/L1Tree_10_merged_179816_001.root
+/storage/cl7359/trigger_studies/nTuples/ZeroBias/RECO/L1Tree_100_merged_179828_001.root
+/storage/cl7359/trigger_studies/nTuples/ZeroBias/RECO/L1Tree_21_merged_179828_002.root
+/storage/cl7359/trigger_studies/nTuples/ZeroBias/RECO/L1Tree_55_merged_179828_003.root
+/storage/cl7359/trigger_studies/nTuples/ZeroBias/RECO/L1Tree_87_merged_179828_004.root
